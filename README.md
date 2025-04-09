@@ -1,2 +1,1 @@
-# sde_de101_prudhvirajboddu
-Data Engineering
+# A full end to end data engineering projects
